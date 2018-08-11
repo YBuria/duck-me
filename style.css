@@ -1,0 +1,49 @@
+body {
+	background-color: green;
+}
+
+h2 {
+	font-size: 30 px;
+	color: rgb(20, 20, 20);
+}
+
+p {
+	color: #C17D80
+}
+
+
+img {
+	border-radius: 10px;
+	width: 200px;
+}
+
+ #header {
+ 	background-image: url('https://i0.wp.com/artistsinspireartists.com/wp-content/uploads/2018/06/juliaburja_girBerlin-wall_compuregraphics_2018_500x700mm-min.jpg?resize=730%2C456');
+ 	text-align: center;
+ 	padding: 200px;
+ 	background-size: cover;
+ }
+
+.header-text {
+	background-color: rgba(20, 20, 20, 0.5);
+}
+
+ h1 {
+ 	color: white;
+ 	font-size: 40px;
+ }
+
+ .card {
+ 	text-align: center;
+ }
+
+ #footer p {
+ 	color: rgb(150, 150, 150);
+ }
+ #footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
